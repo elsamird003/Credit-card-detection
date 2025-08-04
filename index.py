@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib import gridspec
 
-
 data = pd.read_csv("creditcard.csv")
 print(data.head())
 
