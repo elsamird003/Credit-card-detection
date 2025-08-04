@@ -68,5 +68,3 @@ This project uses **supervised machine learning** to detect fraudulent credit ca
 - Importance of **recall and precision** over accuracy
 - Visualizing model performance (ROC curve, confusion matrix)
 
-## 📁 File Structure
-
