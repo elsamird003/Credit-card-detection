@@ -50,6 +50,8 @@ This project uses **supervised machine learning** to detect fraudulent credit ca
 ## ✅ Results
 
 > Note: Your exact results may vary based on random seed or train-test split.
+> <img width="861" height="450" alt="Screenshot 2025-10-05 at 7 29 39 PM" src="https://github.com/user-attachments/assets/0be3a906-c7b0-4efe-a99c-c22b04124439" />
+
 
 - **Accuracy**: ~99.9% (but misleading due to imbalance)
 - **Precision (fraud class)**: ~84%
